@@ -16,5 +16,5 @@
                 "extension-src/content-script.js"
             ]
         }
-    ],
+    ]
 }
